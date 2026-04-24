@@ -10,6 +10,7 @@ from models.trades import Trade
 from models.committees import Committee, PoliticianCommittee
 from models.red_flags import RedFlag
 from models.scores import PoliticianScore
+from models.legal import USCode, Statute
 
 DATABASE_URL = os.environ.get('DATABASE_URL', 'sqlite:///lazarus_politrack.db')
 

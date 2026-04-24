@@ -28,3 +28,9 @@ This is a decentralized audit of the United States Government. Join the pursuit.
 
 ### Final Architecture Summary
 The repository contains an end-to-end political finance intelligence system with fully defined SQLAlchemy schemas, data ingestion pipelines for APIs (Capitol Trades, QuiverQuant) and public disclosures, red-flag analysis heuristics, and a CLI for automated execution.
+
+## Phase System
+This project is developed using a strict Phase System to ensure rigorous progression:
+- **Phase 1: Base Architecture** - Setting up the foundational database, models, and ingestion scaffolding.
+- **Phase 2: Relational Data & Legal Framework** - Integrating full ETL pipelines and ensuring data compliance.
+- **Phase 3: Analysis & Scoring** - Deploying the Red-Flag and Ranking engines for actionable intelligence.

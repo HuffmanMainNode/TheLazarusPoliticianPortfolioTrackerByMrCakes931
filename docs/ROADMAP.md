@@ -1,6 +1,6 @@
 # Project Roadmap
 
-- **v0.1**: Ingestion pipelines and database schema.
-- **v0.2**: Red-flag detection engine.
-- **v0.3**: Ranking and scoring engine.
-- **v1.0**: Live tracking and automated CLI scheduling.
+- **Phase 1: Base Architecture & Ingestion** (Completed)
+- **Phase 2: Relational Data & Legal Framework** (In Progress)
+- **Phase 3: Analysis & Scoring** (Planned)
+- **Phase 4: Live Tracking & Automated CLI Scheduling** (Planned)
