@@ -1,0 +1,9 @@
+[
+    {
+        "external_id": "ex123",
+        "full_name": "John Doe",
+        "chamber": "Senate",
+        "party": "Independent",
+        "state_code": "ZZ"
+    }
+]
