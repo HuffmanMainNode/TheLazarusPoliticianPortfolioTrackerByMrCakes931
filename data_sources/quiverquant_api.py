@@ -1,3 +1,7 @@
+"""
+API Wrapper for QuiverQuant Congress Trading
+Authoritative Source: QuiverQuant (https://www.quiverquant.com/congresstrading/)
+"""
 import requests
 import time
 import logging
@@ -7,13 +11,13 @@ logger = logging.getLogger(__name__)
 
 class QuiverQuantAPI:
     BASE_URL = "https://api.quiverquant.com/beta"
-    
+
     def __init__(self, token: str = "YOUR_TOKEN_HERE"):
         self.headers = {
             "Accept": "application/json",
             "Authorization": f"Token {token}"
         }
-        
+
     def _request(self, endpoint: str, retries: int = 3) -> Optional[List[Dict]]:
         url = f"{self.BASE_URL}/{endpoint}"
         for attempt in range(retries):

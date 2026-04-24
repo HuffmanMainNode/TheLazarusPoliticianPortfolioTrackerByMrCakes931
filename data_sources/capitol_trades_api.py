@@ -1,3 +1,7 @@
+"""
+API Wrapper for Capitol Trades
+Authoritative Source: Capitol Trades (https://www.capitoltrades.com)
+"""
 import requests
 import time
 import logging
@@ -7,13 +11,13 @@ logger = logging.getLogger(__name__)
 
 class CapitolTradesAPI:
     BASE_URL = "https://api.capitoltrades.com/v1"
-    
+
     def __init__(self, api_key: str = None):
         self.api_key = api_key
         self.headers = {"Accept": "application/json"}
         if self.api_key:
             self.headers["Authorization"] = f"Bearer {self.api_key}"
-            
+
     def _request(self, endpoint: str, params: Dict = None, retries: int = 3) -> Optional[Dict]:
         url = f"{self.BASE_URL}/{endpoint}"
         for attempt in range(retries):
