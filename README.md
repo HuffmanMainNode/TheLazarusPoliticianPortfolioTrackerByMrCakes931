@@ -34,3 +34,5 @@ This project is developed using a strict Phase System to ensure rigorous progres
 - **Phase 1: Base Architecture** - Setting up the foundational database, models, and ingestion scaffolding.
 - **Phase 2: Relational Data & Legal Framework** - Integrating full ETL pipelines and ensuring data compliance.
 - **Phase 3: Analysis & Scoring** - Deploying the Red-Flag and Ranking engines for actionable intelligence.
+
+Creation By Robert Huffman (MrCakes931) for public open source use.
