@@ -1,3 +1,25 @@
+# SB26-189 Compliance Boilerplate
+
+## Pre-Decision Notice
+**[Insert this notice prominently before a user engages with the system]**
+
+> **NOTICE OF AUTOMATED DECISION-MAKING TECHNOLOGY (ADMT)**
+> Please be aware that this system uses an Automated Decision-Making Technology (ADMT) to materially influence a consequential decision affecting you. For more information on how this ADMT works and how your data is used, please see our [Link to full documentation/privacy policy].
+
+---
+
+## Post-Adverse Decision Explanation
+**[Provide this explanation within 30 days of an adverse outcome]**
+
+> **EXPLANATION OF ADVERSE DECISION**
+>
+> **The Decision:** You have received an adverse outcome regarding [State the specific decision, e.g., your application, eligibility, etc.].
+>
+> **Role of ADMT:** This decision was materially influenced by our Automated Decision-Making Technology (ADMT), known as [Insert Name of ADMT], version [Insert Version Number], developed by [Insert Developer Name]. The ADMT processed the following types of personal data from these sources: [List types and sources of data].
+>
+> **How to Request More Information or Exercise Your Rights:** You have the right to request additional information regarding this decision and the ADMT used. You may also exercise your consumer rights under Colorado law, including the right to correct data or opt-out. To do so, please follow this process: [Insert simple-to-follow instructions, e.g., click here, email us at X, or fill out this form].
+
+
 # The Lazarus Politician Portfolio Tracker: A Constitutional Mandate for Transparency
 
 ## 🦅 The First Amendment Directive
