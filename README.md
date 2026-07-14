@@ -1,3 +1,15 @@
+<div align="center">
+  <h3>🏛️ Official Borrell & Huffman LLC Enterprise Portfolio</h3>
+  <p><i>This repository is a verified public asset of the Borrell & Huffman Intellectual Property Ecosystem.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/Enterprise-Borrell_%26_Huffman-blue.svg?style=for-the-badge" alt="Enterprise ID">
+    <img src="https://img.shields.io/badge/Status-Public_Showcase-success.svg?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/Clearance-Unclassified-yellow.svg?style=for-the-badge" alt="Clearance">
+  </p>
+</div>
+
+---
+
 # SB26-189 Compliance Boilerplate
 
 ## Pre-Decision Notice
