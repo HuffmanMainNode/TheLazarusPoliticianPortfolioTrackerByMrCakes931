@@ -32,7 +32,7 @@
 > **How to Request More Information or Exercise Your Rights:** You have the right to request additional information regarding this decision and the ADMT used. You may also exercise your consumer rights under Colorado law, including the right to correct data or opt-out. To do so, please follow this process: [Insert simple-to-follow instructions, e.g., click here, email us at X, or fill out this form].
 
 
-# The Lazarus Politician Portfolio Tracker: A Constitutional Mandate for Transparency
+# The Lazarus Portfolio Tracker: A Constitutional Mandate for Transparency
 
 ## 🦅 The First Amendment Directive
 *"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."*
